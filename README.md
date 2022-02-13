@@ -4,6 +4,8 @@ A new approach to an old idea; photoshop your music, samples, and more!  <br>
 
 # Tips
 32bit is still a WIP. <br>
+There is a more simplified version here, without a gui.<br>
+https://gist.github.com/g-l-i-t-c-h-o-r-s-e/570b7b21796366ba1047e405fb5e1e29
 
 I highly suggest getting GMIC for gimp, as it will add around 570+ new filters for you to glitch with. <br>
 https://gmic.eu/download.html <br>
