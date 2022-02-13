@@ -174,7 +174,6 @@ Gui,Submit,Nohide
 
 SilenceVar := SilenceCheck
 
-
 GuiControl,Choose,AudioFormat,3
 GuiControl,Choose,ChannelCount,2
 GuiControl,Choose,PixelFormat,3
