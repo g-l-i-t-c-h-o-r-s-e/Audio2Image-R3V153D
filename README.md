@@ -1,5 +1,6 @@
 A new approach to an old idea; photoshop your music, samples, and more!  <br>
-![image](https://user-images.githubusercontent.com/17163949/153749280-8a3d7213-18a6-472d-b6b5-fe7efa5d7483.png)
+![image](https://user-images.githubusercontent.com/17163949/153749280-8a3d7213-18a6-472d-b6b5-fe7efa5d7483.png) <br>
+You will need AutoHotkey to use this script: https://www.autohotkey.com/download/ahk-install.exe
 
 
 # Examples:
