@@ -6,7 +6,7 @@ A new approach to an old idea; photoshop your music, samples, and more!  <br>
 This one uses the GMIC Perspective filter; I also manually changed the dimensions to be 1000x7200 instead of 3324x3324 in this case.
 https://pink.pony.cx/Pachelbel_-_Canon_In_D_Major._Best_version._[NlprozGcs80]-44100-u16le-1000x7200-perspective_filter.flac <br>
 
-Same as above but I used the GIMP Pixelize filter instead.
+Same as above but I used the GIMP Pixelize filter instead. <br>
 https://pink.pony.cx/Final-Pachelbel_-_Canon_In_D_Major._Best_version._[NlprozGcs80]-44100-u8-1000x7200-Pixelize.flac 
 
 
