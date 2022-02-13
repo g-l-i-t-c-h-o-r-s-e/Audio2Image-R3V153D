@@ -3,6 +3,7 @@
 ;Many Thanks to Dastar For The Square Root Epiphany I Needed <3 <3 <3
 ;Life Is A Party, Bake Cupcakes. - Gordon Ramsey 1945
 
+;Contact Pandela#0002
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
