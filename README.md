@@ -1,6 +1,6 @@
 A new approach to an old idea; photoshop your music, samples, and more!  <br>
 ![image](https://user-images.githubusercontent.com/17163949/153749280-8a3d7213-18a6-472d-b6b5-fe7efa5d7483.png) <br>
-You will need AutoHotkey to use this script: https://www.autohotkey.com/download/ahk-install.exe
+You will need AutoHotkey to use this script: https://www.autohotkey.com/download/ahk-install.exe <br>
 As well as FFMpeg and FFPlay: https://ffbinaries.com/downloads <br>
 https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v4.4.1/ffmpeg-4.4.1-win-64.zip <br>
 https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v4.4.1/ffplay-4.4.1-win-64.zip
