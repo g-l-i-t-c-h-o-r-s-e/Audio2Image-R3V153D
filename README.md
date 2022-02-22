@@ -7,6 +7,11 @@ https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v4.4.1/ffmpe
 https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v4.4.1/ffplay-4.4.1-win-64.zip
 
 
+# Hotkeys
+`Alt+F2` = Play Sample <br>
+`Alt+F3` = Export Sample 
+
+
 # Examples:
 This one uses the GMIC Perspective filter; I also manually changed the dimensions to be 1000x7200 instead of 3324x3324 in this case.
 https://pink.pony.cx/Pachelbel_-_Canon_In_D_Major._Best_version._[NlprozGcs80]-44100-u16le-1000x7200-perspective_filter.flac <br>
